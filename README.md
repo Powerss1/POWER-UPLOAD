@@ -8,5 +8,5 @@
 ## · Dosyalarınızı hassas şekilde şifreler.
 ## · Dosyalarınızı arkadaşlarınızla paylaşabilirsiniz.
 ## · BeDrive İstemcisi ile akıcı deneyim sağlar.
-## · Kolay kullanımlı arayüzü ile deneyim gerektirmez.
+## · Kullanıcı dostu arayüzü ile deneyim gerektirmez.
 
