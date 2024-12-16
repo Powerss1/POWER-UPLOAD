@@ -1,12 +1,1 @@
-# POWER UPLOAD
-
-## 2025 Yılında hizmete girmesi planan Dosya Depolama servisimizdir.
-
-# ÖZELLİKLER
-
-## · Ücretsiz depolama alanı sunar.
-## · Dosyalarınızı hassas şekilde şifreler.
-## · Dosyalarınızı arkadaşlarınızla paylaşabilirsiniz.
-## · BeDrive İstemcisi ile akıcı deneyim sağlar.
-## · Kullanıcı dostu arayüzü ile deneyim gerektirmez.
-
+![PowerUpload](https://github.com/user-attachments/assets/e665e93a-c0f0-482f-93af-de157263efb5)
